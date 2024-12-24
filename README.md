@@ -14,5 +14,5 @@ Thank you, Adrian.
 
 ## Screenshot
 
-![alt text](https://github.com/kowalewskiadrian/Simple-Game-Test/blob/master/Assets/Board/1.png)
-![alt text](https://github.com/kowalewskiadrian/Simple-Game-Test/blob/master/Assets/Board/2.png)
+![alt text](https://github.com/KowalewskiAdrian/Simple-Game-Test/blob/main/Assets/Board/1.png)
+![alt text](https://github.com/kowalewskiadrian/Simple-Game-Test/blob/main/Assets/Board/2.png)
